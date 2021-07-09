@@ -30,7 +30,7 @@
 <a href="https://github.com/barrage-studios/SeasonShift">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=barrage-studios&repo=SeasonShift&theme=vue-dark&hide_border=true&" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Faunsce/SFML-Gui-Creator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faunsce&repo=SFML-Gui-Creator&theme=vue-dark&hide_border=true&" />
 </a>
 
