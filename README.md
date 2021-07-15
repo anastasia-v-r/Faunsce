@@ -5,6 +5,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faunsce&layout=compact&exclude_repo=xornet&theme=vue-dark&langs_count=8&hide_border=true&card_width=300&bg_color=0d1117" height=200/>
 </a>
 
+</br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Faunsce&layout=compact&bg_color=0d1117&hide_border=true&theme=vue-dark&langs_count=8">
+</a>
 
 </br>
 <!--
