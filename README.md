@@ -6,7 +6,7 @@
 </a>
 
 </br>
-
+<!--
 <a href="https://github.com/Faunsce/faunsce.tk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faunsce&repo=faunsce.tk&theme=vue-dark&hide_border=true&" />
 </a>
@@ -31,7 +31,7 @@
 <a href="https://github.com/Faunsce/SFML-Gui-Creator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Faunsce&repo=SFML-Gui-Creator&theme=vue-dark&hide_border=true&" />
 </a>
-
+-->
 
 <!--
 **Faunsce/Faunsce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
