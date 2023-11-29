@@ -7,10 +7,6 @@
 
 </br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anastasia-v-r&layout=compact&bg_color=0d1117&hide_border=true&theme=vue-dark&langs_count=8">
-</a>
-
 </br>
 <!--
 <a href="https://github.com/Faunsce/faunsce.tk">
